@@ -7,27 +7,27 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Aruun Thavabalan's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A passionate individual who always thrives to work on end to end products to help maximise businesses's operational efficiency. I am a dedicated team player with demonstrated leadership abilities in extracurricular activities and volunteer work too.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Aruun Thavabalan Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "http://aruunthavabalan.com/",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
-  logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  title: "Aruun Thavabalan",
+  logo_name: "Aruun Thavabalan",
+  age: "26",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A passionate individual who always thrives to work on end to end products to help maximise businesses's operational efficiency. I am a dedicated team player with demonstrated leadership abilities in extracurricular activities and volunteer work too.",
   resumeLink:
     "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+  portfolio_repository: "https://github.com/aruunt/masterPortfolio",
+  githubProfile: "https://github.com/aruunt",
 };
 
 const socialMediaLinks = [
